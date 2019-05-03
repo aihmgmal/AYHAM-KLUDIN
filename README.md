@@ -1,4 +1,2 @@
-
-
-
-{"apps":[{"name":"اغنية  المشهورة","imageurl":"http://img.mp3can.biz/QobOLoV_qU4.jpg","link":"https://www.youtube.com/watch?v=68pUtLlxkz4","desc":null},{"name":"اغنية روسية","imageurl":"http://img.mp3can.biz/QobOLoV_qU4.jpg","link":"https://www.youtube.com/watch?v=68pUtLlxkz4","desc":null}],"success":1}
+  {"apps":[{"name":"ملصقات واتس اب","imageurl":"https://lh3.googleusercontent.com/60fcBRRO54lH-MMYydWT14GapCM7goNDtaQSUO5antXg5PnRpSCRymewrKUK6y9tx0aP=s360-rw","link":"http://bit.ly/2IK4V7h","desc":null},{"name":"حفظ حالة ","imageurl":"http://bit.ly/2WlkdSl","link":"https://play.google.com/store/apps/details?id=com.abo.jamalsavewastatus","desc":null
+}],"success":1} 
