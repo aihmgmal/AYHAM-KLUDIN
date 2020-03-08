@@ -1,3 +1,1 @@
-{"apps":[{"name":"جمالك خيال مافي غيرك بهالكون بينقلا ملكة جمال 💗😍
-","imageurl":"https://i.ytimg.com/vi/IdEMTNBxGYQ/hqdefault.jpg","link":"http://blog.dwlodvideo.com/","desc":null},{"name":"أروع حالات واتساب عن الحب 2020
-","imageurl":"https://i.ytimg.com/vi/hG9fehM4Rtk/hqdefault.jpg","link":"https://www.youtube.com/watch?v=IdEMTNBxGYQ","desc":null}],"success":1}
+{"apps":[{"name":"حالات واتساب فيديو","imageurl":"https://5jl.cc/wp-content/uploads/2019/10/1961.jpg","link":"https://halatstory.website/","desc":null},{"name":"عايزة مننا ايه يادنيا😞 شيبتينا واحنا عيال ","imageurl":"https://lh3.googleusercontent.com/T5ljuo5jZEdbQ7WA0v5hxgf-ieYXhdpsYAcVA-1zRZoxaXniA323YPwDs7dkD1e_dtuc=s116","link":"http://dwlodvideo.com/","desc":null}],"success":1}
